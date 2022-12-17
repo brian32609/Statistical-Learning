@@ -1,11 +1,7 @@
 ---
-header-includes:
-- \usepackage{xeCJK}
-- \usepackage{fontspec}
-- \setCJKmainfont{微軟正黑體}
 title: 'HW1: Regression Modeling'
-author: "108020035 吳秉洹"
-date: "due on 10/11 (Tue)"
+author: "Brian"
+date: "2022.12.17"
 output:
   pdf_document:
     latex_engine: xelatex
